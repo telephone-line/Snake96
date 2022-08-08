@@ -7,7 +7,7 @@
 How to get started:
 1. Go to [https://windows96.net](https://windows96.net)
 2. Wait for page to load
-3. Paste the entirety of main.js into your developer console (`CTRL + Shift + I`)
+3. Paste the entirety of [main.js](https://raw.githubusercontent.com/telephone-line/Snake96/main/good%20stuff/main.js) into your developer console (`CTRL + Shift + I`)
 And boom! You now have access to the rest of programs people have made.
 
 ---
